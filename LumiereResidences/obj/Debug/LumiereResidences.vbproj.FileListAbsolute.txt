@@ -1,0 +1,29 @@
+C:\Users\Shijei\Documents\Visual Studio 2013\Projects\LumiereResidences\LumiereResidences\bin\Debug\LumiereResidences.exe.config
+C:\Users\Shijei\Documents\Visual Studio 2013\Projects\LumiereResidences\LumiereResidences\bin\Debug\LumiereResidences.exe
+C:\Users\Shijei\Documents\Visual Studio 2013\Projects\LumiereResidences\LumiereResidences\bin\Debug\LumiereResidences.pdb
+C:\Users\Shijei\Documents\Visual Studio 2013\Projects\LumiereResidences\LumiereResidences\bin\Debug\LumiereResidences.xml
+C:\Users\Shijei\Documents\Visual Studio 2013\Projects\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.ApplicationForm.resources
+C:\Users\Shijei\Documents\Visual Studio 2013\Projects\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.MainForm.resources
+C:\Users\Shijei\Documents\Visual Studio 2013\Projects\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.Resources.resources
+C:\Users\Shijei\Documents\Visual Studio 2013\Projects\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.vbproj.GenerateResource.Cache
+C:\Users\Shijei\Documents\Visual Studio 2013\Projects\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.exe
+C:\Users\Shijei\Documents\Visual Studio 2013\Projects\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.xml
+C:\Users\Shijei\Documents\Visual Studio 2013\Projects\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.pdb
+C:\Users\Shijei\Documents\Visual Studio 2013\Projects\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.LoginForm.resources
+C:\Users\Shijei\Documents\Visual Studio 2013\Projects\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.vbprojResolveAssemblyReference.cache
+C:\Users\Shijei\Documents\Visual Studio 2013\Projects\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.AboutForm.resources
+C:\Users\ITB202\Desktop\LumiereResidences\LumiereResidences\bin\Debug\LumiereResidences.exe.config
+C:\Users\ITB202\Desktop\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.exe
+C:\Users\ITB202\Desktop\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.xml
+C:\Users\ITB202\Desktop\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.pdb
+C:\Users\ITB202\Desktop\LumiereResidences\LumiereResidences\bin\Debug\LumiereResidences.exe
+C:\Users\ITB202\Desktop\LumiereResidences\LumiereResidences\bin\Debug\LumiereResidences.pdb
+C:\Users\ITB202\Desktop\LumiereResidences\LumiereResidences\bin\Debug\LumiereResidences.xml
+C:\Users\ITB202\Desktop\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.vbprojResolveAssemblyReference.cache
+C:\Users\ITB202\Desktop\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.AboutForm.resources
+C:\Users\ITB202\Desktop\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.ApplicationForm.resources
+C:\Users\ITB202\Desktop\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.LoginForm.resources
+C:\Users\ITB202\Desktop\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.MainForm.resources
+C:\Users\ITB202\Desktop\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.Resources.resources
+C:\Users\ITB202\Desktop\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.PrintForm.resources
+C:\Users\ITB202\Desktop\LumiereResidences\LumiereResidences\obj\Debug\LumiereResidences.vbproj.GenerateResource.Cache
